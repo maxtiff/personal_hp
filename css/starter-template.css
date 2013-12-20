@@ -1,0 +1,22 @@
+body {
+  padding-top: 50px;
+  text-align: center;
+  background: #172E44;
+  background-position: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+}
+
+.container {
+	font-family: 'Open Sans', sans-serif;
+}
+
+article {
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
