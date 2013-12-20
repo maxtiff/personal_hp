@@ -3,7 +3,6 @@ body {
   text-align: center;
   background: #4A4E54;
   background-position: center;
-  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
@@ -40,6 +39,7 @@ input[type="submit"] {
 
 .jumbotron {
   padding: 300px;
+  margin-top: -50px;
   margin-bottom: 30px;
   font-size: 21px;
   font-weight: 200;
@@ -48,4 +48,8 @@ input[type="submit"] {
   background-color: #eeeeee;
   background: url("/travis/assets/blue_squares.png");
   background-size: cover;
+}
+
+.navbar {
+	background: rgba(0,0,0,0.5);
 }
