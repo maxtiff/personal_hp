@@ -39,7 +39,7 @@ template {
 }
 
 html {
-  font-family: 'Open sans', sans-serif;
+  font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -5255,8 +5255,8 @@ a.list-group-item.active > .badge,
     padding-bottom: 48px;
   }
   .container .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 70px;
+    padding-left: 70px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
