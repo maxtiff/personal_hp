@@ -1,19 +1,28 @@
 body {
   padding-top: 50px;
-  text-align: center;
-  background: #4A4E54;
+  text-align: left;
+  background: #CEE1C1;
   background-position: center;
 }
 
 h1 {
   font-size: 70px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   color: white;
   font-weight: 200;
 }
 
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+
 p{
   font-size: 16px;
+  margin-left: 150px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+  color: #142429;
 }
 
 article {
@@ -33,12 +42,12 @@ input {
 input[type="submit"] {
   border: 0;
   border-radius: 3px;
-  background: red;
+  background: #B33C44;
   color: white;
 }
 
 .jumbotron {
-  padding: 300px;
+  padding: 150px;
   margin-top: -50px;
   margin-bottom: 30px;
   font-size: 21px;
@@ -52,4 +61,10 @@ input[type="submit"] {
 
 .navbar {
 	background: rgba(0,0,0,0.5);
+}
+
+.post_headline {
+	margin-left: 150px;
+	color: #EA4E56;
+	font-weight: 550;
 }
