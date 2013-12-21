@@ -19,7 +19,6 @@ h4 {
 
 p{
   font-size: 16px;
-  margin-left: 150px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: left;
   color: #142429;
@@ -46,6 +45,10 @@ input[type="submit"] {
   color: white;
 }
 
+.navbar {
+	background: rgba(0,0,0,0.5);
+}
+
 .jumbotron {
   padding: 150px;
   margin-top: -50px;
@@ -57,19 +60,15 @@ input[type="submit"] {
   background-color: #eeeeee;
   background: url("/travis/assets/blue_squares.png");
   background-size: cover;
-}
+  text-shadow: 1px 1px 1px gray;
 
-.navbar {
-	background: rgba(0,0,0,0.5);
 }
 
 .post_headline {
-	margin-left: 300px;
 	color: #EA4E56;
 	font-weight: 550;
 }
 
 .post_body {
-	margin-left: 300px;
 	font-weight: 550;
 }
