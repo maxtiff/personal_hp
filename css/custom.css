@@ -64,7 +64,12 @@ input[type="submit"] {
 }
 
 .post_headline {
-	margin-left: 150px;
+	margin-left: 300px;
 	color: #EA4E56;
+	font-weight: 550;
+}
+
+.post_body {
+	margin-left: 300px;
 	font-weight: 550;
 }
