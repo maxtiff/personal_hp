@@ -50,7 +50,7 @@ input[type="submit"] {
 }
 
 .jumbotron {
-  padding: 150px;
+  padding: 75px;
   margin-top: -50px;
   margin-bottom: 30px;
   font-size: 21px;
@@ -58,7 +58,7 @@ input[type="submit"] {
   line-height: 2.1428571435;
   color: inherit;
   background-color: #eeeeee;
-  background: url("/travis/assets/blue_squares.png");
+  background: url("/personal_hp/assets/blue_squares.png");
   background-size: cover;
   text-shadow: 1px 1px 1px gray;
 
